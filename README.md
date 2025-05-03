@@ -72,4 +72,5 @@ Look at the final DataFrames and visualizations to:
 
 ## Notes
 This notebook is GPU-accelerated and may not run efficiently on CPU.<br>
-Consider limiting the number of examples for quick iteration.
+Consider limiting the number of examples for quick iteration.<br>
+[Code Demo](https://youtu.be/n_udRWxUaJU)
