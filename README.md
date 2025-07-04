@@ -10,7 +10,7 @@ pip install accelerate evaluate pandas scikit-learn lxml
 ~~~
 You also need access to the HuggingFace Hub, using your account token, for downloading the LLMs and a GPU for efficient inference.
 Mistral-7B and Llama-3 are both gated models and require you to request access for use on HuggingFace.
-~~~
+
 In order to download the MedQuAD dataset from Kaggle, you will need to have your Kaggle API token downloaded. 
 
 ## Data Sources
