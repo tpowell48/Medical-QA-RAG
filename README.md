@@ -62,10 +62,10 @@ You can also manually review the answers using the notebook's interactive scorin
 2. Prepare datasets (medquad.csv, MedlinePlus XML).
 
 3. Run the notebook cell-by-cell, ensuring:
-  * GPU is enabled
-  * HuggingFace login is complete (for LLaMA-3 or Phi-3)
+   * GPU is enabled
+   * HuggingFace login is complete (for LLaMA-3 or Phi-3)
 
-4. Compare model outputs and analyze the results.
+5. Compare model outputs and analyze the results.
 
 ## Results Interpretation
 Look at the final DataFrames and visualizations to:
